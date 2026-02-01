@@ -1,0 +1,6 @@
+numpy
+Pillow
+openai
+pytesseract
+requests
+python-dotenv
